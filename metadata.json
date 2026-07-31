@@ -1,0 +1,6 @@
+{
+  "name": "TuneIndiaGlobal",
+  "description": "Everything Music. One Destination. Complete music ecosystem with music tools, studio utilities, theory guides, audio analysis, virtual instruments, practice trackers, and coming soon store marketplace.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
